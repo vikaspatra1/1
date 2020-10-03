@@ -17,24 +17,11 @@
 			height: 100vh;
 		}
 
-		.z{
-			z-index: 1;
-			color: white;
-		}
 
-		.fa {
-		padding:10px;
-		font-size: 30px;
-		width: 50px;
-		height: 50px;
-		text-align:center;
-		text-decoration: none;
-		margin: 5px 2px;
-		border-radius: 50%;
-		}
+		
 
 		.fa:hover {
-			opacity: 0.7;
+			opacity: 1;
 		}
 		
 		.fa-google {
@@ -52,10 +39,7 @@
 		color: white;
 		}
 
-		.fa-github {
-		background: #000000;
-		color: white;
-		}
+		
 	</style>
 
     <title>Home</title>
